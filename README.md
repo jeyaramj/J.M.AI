@@ -1,5 +1,5 @@
 # J.M.AI
-A project ask a question and find answered based on
+A project that will provide a UI to ask a question by typing the text and find answered based on
   1) Previously accepted answers
   2) Text classification based on existing models
   3) Web search
